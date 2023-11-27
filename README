@@ -1,1 +1,8 @@
 Download dataset from https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
+Original tutorial: https://www.youtube.com/watch?v=eyEabQRBMQA&t=62s&ab_channel=Dataquest
+Learnings:
+  pandas library
+  Term Frequency - Inverse Document Frequency (basics)
+  ipywidgets
+  basic logic on how recommendation system/search engine works
